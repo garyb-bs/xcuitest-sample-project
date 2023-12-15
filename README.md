@@ -22,7 +22,7 @@ git clone https://github.com/Manual-To-Automation-Sky/XCUITest-Lesson-3-Exercise
 ```
 * Move into the directory that you just cloned by typing
 ```sh
-cd XCUITest-Lesson-3-Exercise
+cd xcuitest-sample-project
 ```
 
 ## Running Your Tests
