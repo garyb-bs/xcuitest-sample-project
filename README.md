@@ -1,4 +1,4 @@
-# Manual to Automation @ <a href="https://sky.co.uk/"><img src="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png" alt="playwright" height="27" /></a> using XCUITest - Lesson 3 - Exercise
+# XCUITest Sample Project
 
 ## Introduction
 
